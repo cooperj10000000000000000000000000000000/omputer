@@ -22,3 +22,4 @@ Right now its just brainstorming
 - The ON/OFF switch should be cool and satisfying, maybe it needs a key or some shit
 - Laser
 - It should have a nice looking case, enclosure, maybe transparent to show off internal ele but an overall polished look
+- Maybe some wood trim lol
