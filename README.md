@@ -1,7 +1,7 @@
 # omputer
 this is my repo for omputer stuff, I plan to use some SBC module and build a carrier board for it
 Right now its just brainstorming
-## Features
+## Features in no particular order
 - Portable
 - Headless?/Optional Monitor
 - Integrated keyboard/custom keyboard with extra input methods
