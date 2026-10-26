@@ -2,8 +2,8 @@
 this is my repo for omputer stuff, I plan to use some SBC module and build a carrier board for it
 Right now its just brainstorming
 ## Features in no particular order:
-- Portable
-- Headless?/Optional Monitor
+- Portable, >60Wh Battery
+- Headless?/Optional Monitor or 4:3 monitor
 - Integrated keyboard/custom keyboard with extra input methods
 - 4 USB3.0
 - 2 USB-C
